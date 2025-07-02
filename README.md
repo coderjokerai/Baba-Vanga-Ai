@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/coderjokerai/baba-vanga-ai/blob/main/logo/logo.png" width="65%">
+  <img src="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/logo/logo.png" width="65%">
 </p>
 
 # Baba Vanga Ai
@@ -22,25 +22,25 @@ Actual 2 = Away Win Predictions
 |**Weighted AVG**|0.50|0.55|0.48|1238|
  
 
-<img src="https://github.com/coderjokerai/baba-vanga-ai/blob/main/logo/1.png">
-<img src="https://github.com/coderjokerai/baba-vanga-ai/blob/main/logo/2.png">
+<img src="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/logo/1.png">
+<img src="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/logo/2.png">
 
 ## Local Installation (Anaconda)
     conda create -n baba-vanga-ai python=3.11
     conda activate baba-vanga-ai
-	git clone https://github.com/coderjokerai/baba-vanga-ai.git
+	git clone https://github.com/coderjokerai/Baba-Vanga-Ai.git
 	cd baba-vanga-ai
 	pip install -r requirements.txt
 	python run.py
 ## Local Installation
 Install Python Version 3.11
 
-	git clone https://github.com/coderjokerai/baba-vanga-ai.git
+	git clone https://github.com/coderjokerai/Baba-Vanga-Ai.git
 	cd baba-vanga-ai
 	pip install -r requirements.txt
 	python run.py
 ## Google Colab Usage
-Download <a href="https://github.com/coderjokerai/baba-vanga-ai/blob/main/Baba_Vanga_Ai.ipynb">baba_vanga_ai.ipynb</a> file and run on Google Colab.
+Download <a href="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/Baba_Vanga_Ai.ipynb">baba_vanga_ai.ipynb</a> file and run on Google Colab.
 
 
 
@@ -54,7 +54,7 @@ Download <a href="https://github.com/coderjokerai/baba-vanga-ai/blob/main/Baba_V
 |**60-70%**|135|104|20|11|
 |**70%+**|47|38|6|3|
 
-<img src="https://github.com/coderjokerai/baba-vanga-ai/blob/main/logo/3.png">
+<img src="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/logo/3.png">
 
 **Draw (1) Actual Outcome Distribution According to Probability Range:**
 
@@ -65,7 +65,7 @@ Download <a href="https://github.com/coderjokerai/baba-vanga-ai/blob/main/Baba_V
 |**60-70%**|0|0|0|0|
 |**70%+**|0|0|0|0|
 
-<img src="https://github.com/coderjokerai/baba-vanga-ai/blob/main/logo/4.png">
+<img src="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/logo/4.png">
 
 **Away Team Wins (2) Actual Outcome Distribution According to Probability Range:**
 
@@ -76,5 +76,5 @@ Download <a href="https://github.com/coderjokerai/baba-vanga-ai/blob/main/Baba_V
 |**60-70%**|14|1|2|11|
 |**70%+**|3|0|0|3|
 
-<img src="https://github.com/coderjokerai/baba-vanga-ai/blob/main/logo/5.png">
+<img src="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/logo/5.png">
 
