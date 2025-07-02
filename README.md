@@ -29,14 +29,14 @@ Actual 2 = Away Win Predictions
     conda create -n baba-vanga-ai python=3.11
     conda activate baba-vanga-ai
 	git clone https://github.com/coderjokerai/Baba-Vanga-Ai.git
-	cd baba-vanga-ai
+	cd Baba-Vanga-Ai
 	pip install -r requirements.txt
 	python run.py
 ## Local Installation
 Install Python Version 3.11
 
 	git clone https://github.com/coderjokerai/Baba-Vanga-Ai.git
-	cd baba-vanga-ai
+	cd Baba-Vanga-Ai
 	pip install -r requirements.txt
 	python run.py
 ## Google Colab Usage
