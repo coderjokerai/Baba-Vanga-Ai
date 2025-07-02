@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/coderjokerai/baba-vanga-ai/blob/main/logo/logo.png" width="65%">
 </p>
+
 # Baba Vanga Ai
 
 Using Baba Vanga Ai, you can have artificial intelligence predict the results of football matches within the leagues!
