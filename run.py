@@ -220,6 +220,8 @@ def generate_pdf_from_dataframe(dataframe: pd.DataFrame):
 def gradio_interface():
     with gr.Blocks(title="Baba Vanga Ai") as blc:
         gr.HTML("<center><h1>Baba Vanga Ai</h1></center>")
+        iframeh = """<iframe width="560" height="315" src="https://www.youtube.com/embed/pjsdzoMBHKo?si=iPpgGgTirzxZGBs_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"""
+        gr.HTML(iframeh)
         gr.HTML("<style>#predbutton{background-color: orange; color: white;}</style>")
         gr.HTML("<b>URL: <a href='https://arsiv.mackolik.com/Canli-Sonuclar' target='_blank'>https://arsiv.mackolik.com/Canli-Sonuclar</a>")
 
