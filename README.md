@@ -25,6 +25,10 @@ Actual 2 = Away Win Predictions
 <img src="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/logo/1.png">
 <img src="https://github.com/coderjokerai/Baba-Vanga-Ai/blob/main/logo/2.png">
 
+# Installation
+## Installation Guide Video:
+[![Watch the video](https://img.youtube.com/vi/pjsdzoMBHKo/0.jpg)](https://www.youtube.com/watch?v=pjsdzoMBHKo)
+
 ## Local Installation (Anaconda)
     conda create -n baba-vanga-ai python=3.11
     conda activate baba-vanga-ai
